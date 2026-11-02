@@ -9,4 +9,4 @@
 | [Информация об экстремальных событиях в городе](https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/) | CSV | Январь 2024|
 | [Когда люди чаще ездят на такси? Исследование](https://www.zr.ru/content/news/916051-kogda-lyudi-chashche-ezdyat-na-taksi/) | HTML | 2019 |
 | [От чего зависят цены на такси?](https://rskrf.ru/tips/eksperty-obyasnyayut/ot-chego-zavisyat-tseny-na-taksi/) | HTML | 2023 |
-| [Почему так долго?! Как гарантированно уехать на такси в любую погоду](https://www.m24.ru/articles/31102018/153999) | HTML | 2018 |
+| [Спрос на такси в России: дни и часы, когда автомобили заказывают чаще всего](https://vc.ru/transport/57190-spros-na-taksi-v-rossii-dni-i-chasy-kogda-avtomobili-zakazyvayut-chashe-vsego) | HTML | 2019 |
